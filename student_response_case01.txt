@@ -1,17 +1,14 @@
-SOC INCIDENT REPORT
+-----BEGIN PGP MESSAGE-----
 
-Type of Attack
-- Brute Force
-
-Indicators
-- Unkwon Ip address
-- Multiple failed attempts within 2 minutes
-
-Immediate action
-- Report
-
-Serverity level 
-Low level (4)
-
-Recommendation
-Limit the number of login attempts for every few hours of attempts.
+hF4DzzoN27KZLbISAQdAFJjjk/hta8MM9x1TFunO8YA/zds5I2CqK7Z0b9+SEwQw
+OHKna9d8um/fczfjYDuSVbfOVNJs6W9CnMV49ymYWMLQGc5b4TE6e7wcNmFBFn8P
+jE0FCQIDCBggiKG+TVZhx7FxivClr7hsSt0llyTjU90aIw1dyUIEpMSVh9XSMQZB
+9YSVBnzXyaX4P1qQtY+GS5WF0g/Jopq9G+TKd5YW1NTATgEJAhDh0OEwWQ+7cT/5
+2CiIU0Nw1pDqCvsMPQmhXohlIZwWaueil7FXq5eijCFbauGdNvX3ltdpAeefyQC2
+y2w5l3shBBXTDoiJlUeDzzPQCHsXKMriXmELbNOkj7eirXpZGNVyZUbFL/D7ENxe
+8WwFdojRShuW1qhJ2bMx/GUJQh0InLIwNLd2p6CdmL8A28czg4gkUX/15rUujWKm
++kBWzuWgEjakytJxFHtSyEu8qulqX/KIZv840ADCLOpmOLxurnaA3gPiivWcI/WH
+nO3W6p6xNG5YoopzzR0yXqPUmIUZW+hdXl9os8SWgqFpKgyr+EYqm3fNJNAU4WrT
+HOwlPxpJ91rNDD6XSwrPwQ==
+=xRey
+-----END PGP MESSAGE-----
