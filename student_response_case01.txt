@@ -1,0 +1,17 @@
+SOC INCIDENT REPORT
+
+Type of Attack
+- Brute Force
+
+Indicators
+- Unkwon Ip address
+- Multiple failed attempts within 2 minutes
+
+Immediate action
+- Report
+
+Serverity level 
+Low level (4)
+
+Recommendation
+Limit the number of login attempts for every few hours of attempts.
